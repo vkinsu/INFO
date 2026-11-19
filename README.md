@@ -1,3 +1,6 @@
+#PS 
+Ctrl + C, Ctrl + D, Ctrl + Z - завершение и остановка процессов в Bash
+https://younglinux.info/bash/ctrl-c
 # INFO
 Предположительно
 
